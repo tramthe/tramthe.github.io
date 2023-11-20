@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://tramthe.github.io'
+languageCode = 'vn-us'
 title = 'Ann'
 theme = 'newsroom'
